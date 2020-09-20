@@ -1,0 +1,6 @@
+mkdir Project 1
+cd Project 1
+touch file.txt
+git add file.txt
+git commit -m "add file.txt to repo"
+
