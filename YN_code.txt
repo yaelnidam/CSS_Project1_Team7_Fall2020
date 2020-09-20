@@ -1,0 +1,14 @@
+
+yaeln@YaelNidam MINGW64 ~ (master)
+$ cd "C:\Users\Yael nidam\Box Sync\Fall_2020\Computational_Social_Science\2.Assignments"
+
+yaeln@YaelNidam MINGW64 ~/Box Sync/Fall_2020/Computational_Social_Science/2.Assignments (master)
+$ git clone "https://github.com/yaelnidam/CSS_Project1_Team7_Fall2020"
+Cloning into 'CSS_Project1_Team7_Fall2020'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+Unpacking objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+
+yaeln@YaelNidam MINGW64 ~/Box Sync/Fall_2020/Computational_Social_Science/2.Assignments (master)
+$
