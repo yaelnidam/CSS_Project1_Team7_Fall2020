@@ -1,3 +1,5 @@
+Renata Barreto, JD / PhD Berkeley Law, fairness in ML 
+
 mkdir Project 1
 cd Project 1
 touch file.txt
