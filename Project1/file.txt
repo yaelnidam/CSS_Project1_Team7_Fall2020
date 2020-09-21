@@ -1,2 +1,13 @@
+
+Renata Barreto, JD / PhD Berkeley Law, fairness in ML 
+
+mkdir Project 1
+cd Project 1
+touch file.txt
+git add file.txt
+git commit -m "add file.txt to repo"
+
+
 PhD, Sociology
 Research Interests: Policing, Privatization, Inequality, Social Control
+
