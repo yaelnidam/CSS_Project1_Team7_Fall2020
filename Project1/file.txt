@@ -7,7 +7,7 @@ touch file.txt
 git add file.txt
 git commit -m "add file.txt to repo"
 
-
+Xavier Durham
 PhD, Sociology
 Research Interests: Policing, Privatization, Inequality, Social Control
 
