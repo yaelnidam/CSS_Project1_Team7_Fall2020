@@ -11,3 +11,7 @@ git commit -m "add file.txt to repo"
 PhD, Sociology
 Research Interests: Policing, Privatization, Inequality, Social Control
 
+Yael Nidam
+Ph.D. student in the Department of City and Regional Planning
+Interested in climate policy, housing policy, and public health
+
